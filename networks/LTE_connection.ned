@@ -165,7 +165,7 @@ network LTE_SingleCell
             @display("p=391,260;is=vl");
         }
         ue[numUe]: Ue {
-            @display("p=783,278");
+            @display("p=483,278");
         }
     connections:
         server.pppg++ <--> Eth10G <--> router.pppg++;
