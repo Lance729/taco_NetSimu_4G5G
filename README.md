@@ -66,7 +66,7 @@ Our simulation examples test the uplink and downlink throughput of 5G NR and 4G 
 
 Note: `Bps` differs from `bps`. 1 Byte = 8 bits, 1 Bps = 8 × 10⁻⁶ Mbps
 
-## (Optional) If you want export the results from raw data?
+## (Optional) Do you want to run and get the results from scratch?
 First, you must run the showcase certainly :)
 
 After run a simulation, the results are saved in the `results` folder, in which `*.vec` files are results of the simulation and can be transformed into `*.json` format using `opp_scavetool` command for each `*.vec` file:
