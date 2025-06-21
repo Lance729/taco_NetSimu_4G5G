@@ -25,7 +25,7 @@ My_Workspace
 |-- inet-4.5.4
 |-- omnetpp-6.1.0
 |-- simu5g-1.3.0
-|-- taco_net_simu
+|-- taco_NetSimu_4G5G
 ```
 # How to run?
 
